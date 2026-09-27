@@ -10,7 +10,7 @@ MySQL, JOINS, GROUP BY, HAVING, CTE, SUM, COUNT
 - **Total Revenue:** 1,07,47,454
 - **Top City:** Indore - 21,58,836
 - **Top Product:** Lakme Kit 36 units
-- 110+ repeat customers
+- **Repeat customers:** +110
 
 ## Author
 Rishika Yadav - Aspiring Data Analyst
